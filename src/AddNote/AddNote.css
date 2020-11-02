@@ -1,0 +1,16 @@
+form{
+    display:flex;
+    flex-direction: column;
+color: white;
+margin: 20px
+}
+
+
+textarea{
+    min-height: 100px;
+}
+
+.error-message {
+    color: red;
+    font-size: 1.25em;
+}
